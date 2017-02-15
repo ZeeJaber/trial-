@@ -1,1 +1,12 @@
-# trial-
+1. Why are you interested in programming? What have you done to expose yourself to programming so far?
+2. If you are accepted into our program, where do you see your career in 5 years?
+3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community? http://adadevelopersacademy.org/program
+4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?  
+## Answers
+1. I discovered my interest in programming in one of the last courses I took finishing my Bachelor in Banking and Finance. The course is financial modeling where we use excel to write queries and command. zthen, I noticed how good i was in following the detailed steps and rules, i liked how specific and delicate programming can be. I always had that passion for details and designs, I realized that semester that I can combine both in programming.  
+I always had that passion but never thought it was possible to change course and go back to school and study computer science, especially after I started a family, until I knew about ADA! It gave me the hope, that even after finishing my bachelor and working in the Financial industry, I can still switch careers to what I really love.  
+I have used excel ever since, unfortunately not as good as I would want to be.I still became a bit of spreadsheet addict. I have also learned HTML and Markdown, in the near past , after I learned about ADA.
+2. My 5 years plan will be to become an excellent and well reputable software developer that will contribute to the technology that is driving this planet to become a better place, and helping us proving ourselves to be the smartest species ever discovered. I want to be able to write whatever application crosses my mind to ease my everyday. 
+I want to combine my expertise together. To create a software that treats the financial industry better and make it a safer and a trustworthy place to trade and detect fraud.
+3. By being part of ADA itself will help me in the begining to become a more confident person and realize that I also exist in this society. I have always felt excluded from this society, by being a muslim and an Arab, i always felt the prejudice in some people. I too have a voice, and once its loud enough I can speak for who went through what I went through.
+4. studying finance and not taking the time to decide , because it has changed the entire course of my life.
